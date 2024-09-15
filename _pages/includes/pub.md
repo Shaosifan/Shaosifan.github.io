@@ -1,7 +1,7 @@
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/IDA-SiamNet.png"><img src='images/RS_mamba.png' alt="RS_mamba" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/IDA-SiamNet.png"><img src='images/IDA-SiamNet.png' alt="IDA-SiamNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>IDA-SiamNet: Interactive- and Dynamic-Aware Siamese Network for Building Change Detectiond</b></a> \\
