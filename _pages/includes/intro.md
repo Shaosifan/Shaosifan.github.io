@@ -1,0 +1,2 @@
+# 👋 About Me
+I am a Assistant Professor at Southwest Jiaotong University. Before that, I got my Ph.D. from Beihang University under the supervision of Prof. Shi Zhenwei, the head of [LEVIR Laboratory](https://levir.buaa.edu.cn/).
