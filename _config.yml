@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Lei Sen (雷森)"
 description              : "Assistant Professor at Southwest Jiaotong University."
-repository               : "shaosifan/shaosifan.github.io"
+repository               : "Shaosifan/Shaosifan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -44,8 +44,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"rayeren"
-  dblp             : "https://dblp.org/pid/175/3324-45.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6418-3761"
+  dblp             : # "https://dblp.org/pid/175/3324-45.html"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0002-6418-3761"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
