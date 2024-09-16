@@ -1,6 +1,20 @@
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/FER-YOLO-Mamba.png"><img src='images/FER-YOLO-Mamba.png' alt="FER-YOLO-Mamba" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle><b>FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space</b></a> \\
+ *ArXiv, 2024*  \\
+Hui Ma, **<font color="#000000">Sen Lei*</font>**, Turgay Celik, Heng-Chao Li \\
+[<a href="https://arxiv.org/pdf/2405.01828/">ArXiv</a>] [<a href="https://github.com/SwjtuMa/FER-YOLO-Mamba">Code</a>] 
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/IDA-SiamNet.png"><img src='images/IDA-SiamNet.png' alt="IDA-SiamNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -30,7 +44,7 @@ Feng Tian†, **<font color="#000000">Sen Lei†</font>**, Yingbo Zhou, Jialin C
 <a class=PaperTitle><b>Transformer-Based Multistage Enhancement for Remote Sensing Image Super-Resolution</b></a> \\
  *IEEE TGRS, 2022*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Wenjing Mo \\
-[<a href="https://ieeexplore.ieee.org/document/9654169/">TGRS</a>][<a href="https://github.com/Shaosifan/TransENet">Code</a>] 
+[<a href="https://ieeexplore.ieee.org/document/9654169/">TGRS</a>][<a href="https://github.com/Shaosifan/TransENet">Code</a>](Google Cite 105, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
 
 </div>
 </div>
@@ -42,7 +56,18 @@ Feng Tian†, **<font color="#000000">Sen Lei†</font>**, Yingbo Zhou, Jialin C
 <a class=PaperTitle><b>Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution</b></a> \\
  *IEEE TGRS, 2022*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi \\
-[<a href="https://ieeexplore.ieee.org/document/9400474/">TGRS</a>][<a href="https://github.com/Shaosifan/HSENet">Code</a>] 
+[<a href="https://ieeexplore.ieee.org/document/9400474/">TGRS</a>][<a href="https://github.com/Shaosifan/HSENet">Code</a>](Google Cite 101, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/R2HGAN.png"><img src='images/R2HGAN.png' alt="R2HGAN" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle><b>Hyperspectral Remote Sensing Imagery Generation From RGB Images Based on Joint Discrimination</b></a> \\
+ *IEEE JSTARS, 2021*  \\
+Liqin Liu, **<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Ning Zhang, Xinzhong Zhu \\
+[<a href="https://ieeexplore.ieee.org/document/9495279/">JSTARS</a>][<a href="https://github.com/liuliqin/R2HGAN-generate-HSI-from-RGB">Code</a>] 
 
 </div>
 </div>
@@ -65,13 +90,22 @@ Zhengxia Zou, **<font color="#000000">Sen Lei</font>**, Tianyang Shi, Zhenwei Sh
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>Coupled Adversarial Training for Remote Sensing Image Super-Resolution</b></a> \\
- *CVPR, 2020*  \\
+ *IEEE TGRS, 2020*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Zhengxia Zou \\
-[<a href="https://ieeexplore.ieee.org/document/8946581/">CVPR</a>]
+[<a href="https://ieeexplore.ieee.org/document/8946581/">TGRS</a>](Google Cite 120) 
 
 </div>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CDGAN.png"><img src='images/CDGAN.png' alt="CDGAN" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
 
+<a class=PaperTitle><b>Super-Resolution for Remote Sensing Images via Local–Global Combined Network</b></a> \\
+ *IEEE GRSL, 2017*  \\
+**<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Zhengxia Zou \\
+[<a href="https://ieeexplore.ieee.org/document/7937881/">GRSL</a>](Google Cite 284, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
+
+</div>
+</div>
 
