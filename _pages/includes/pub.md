@@ -44,7 +44,7 @@ Feng Tian†, **<font color="#000000">Sen Lei†</font>**, Yingbo Zhou, Jialin C
 <a class=PaperTitle><b>Transformer-Based Multistage Enhancement for Remote Sensing Image Super-Resolution</b></a> \\
  *IEEE TGRS, 2022*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Wenjing Mo \\
-[<a href="https://ieeexplore.ieee.org/document/9654169/">TGRS</a>][<a href="https://github.com/Shaosifan/TransENet">Code</a>](Google Cite 105, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
+[<a href="https://ieeexplore.ieee.org/document/9654169/">TGRS</a>][<a href="https://github.com/Shaosifan/TransENet">Code</a>] (Google Cite 105, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
 
 </div>
 </div>
@@ -56,7 +56,7 @@ Feng Tian†, **<font color="#000000">Sen Lei†</font>**, Yingbo Zhou, Jialin C
 <a class=PaperTitle><b>Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution</b></a> \\
  *IEEE TGRS, 2022*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi \\
-[<a href="https://ieeexplore.ieee.org/document/9400474/">TGRS</a>][<a href="https://github.com/Shaosifan/HSENet">Code</a>](Google Cite 101, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
+[<a href="https://ieeexplore.ieee.org/document/9400474/">TGRS</a>][<a href="https://github.com/Shaosifan/HSENet">Code</a>] (Google Cite 101, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
 
 </div>
 </div>
@@ -92,7 +92,7 @@ Zhengxia Zou, **<font color="#000000">Sen Lei</font>**, Tianyang Shi, Zhenwei Sh
 <a class=PaperTitle><b>Coupled Adversarial Training for Remote Sensing Image Super-Resolution</b></a> \\
  *IEEE TGRS, 2020*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Zhengxia Zou \\
-[<a href="https://ieeexplore.ieee.org/document/8946581/">TGRS</a>](Google Cite 120) 
+[<a href="https://ieeexplore.ieee.org/document/8946581/">TGRS</a>] (Google Cite 120) 
 
 </div>
 </div>
@@ -104,7 +104,7 @@ Zhengxia Zou, **<font color="#000000">Sen Lei</font>**, Tianyang Shi, Zhenwei Sh
 <a class=PaperTitle><b>Super-Resolution for Remote Sensing Images via Local–Global Combined Network</b></a> \\
  *IEEE GRSL, 2017*  \\
 **<font color="#000000">Sen Lei</font>**, Zhenwei Shi, Zhengxia Zou \\
-[<a href="https://ieeexplore.ieee.org/document/7937881/">GRSL</a>](Google Cite 284, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
+[<a href="https://ieeexplore.ieee.org/document/7937881/">GRSL</a>] (Google Cite 284, **<font color="#C00000">ESI Highly Cited Paper(Top-1%)</font>**) 
 
 </div>
 </div>
