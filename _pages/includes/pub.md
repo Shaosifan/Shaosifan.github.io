@@ -98,7 +98,7 @@ Zhengxia Zou, **<font color="#000000">Sen Lei</font>**, Tianyang Shi, Zhenwei Sh
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CDGAN.png"><img src='images/CDGAN.png' alt="CDGAN" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/LGCNet.png"><img src='images/LGCNet.png' alt="LGCNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>Super-Resolution for Remote Sensing Images via Local–Global Combined Network</b></a> \\
