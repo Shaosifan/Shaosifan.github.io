@@ -6,7 +6,7 @@
 
 <a class=PaperTitle><b>FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space</b></a> \\
  *ArXiv, 2024*  \\
-Hui Ma, **<font color="#000000">Sen Lei*</font>**, Turgay Celik, Heng-Chao Li \\
+Hui Ma, **<font color="#000000">Sen Lei</font>**, Turgay Celik, Heng-Chao Li \\
 [<a href="https://arxiv.org/pdf/2405.01828/">ArXiv</a>] [<a href="https://github.com/SwjtuMa/FER-YOLO-Mamba">Code</a>] 
 
 </div>
