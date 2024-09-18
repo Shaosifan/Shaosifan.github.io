@@ -6,9 +6,9 @@
 
 
 # 📝 Experience
-- Southwest Jiaotong University, Assistant Professor,  2024.01 - Present
-- AVIC Chengdu Aircraft Industrial (Group) Company Ltd., Lead Designer for Remote Sensing Processing, 2021.07 - 2024.01
-- Alibaba Group, The Intern of Algorithm Engineer, 2020.07 - 2020.08
+- *2024.01 - Present*, Southwest Jiaotong University, Assistant Professor  
+- *2021.07 - 2024.01*, AVIC Chengdu Aircraft Industrial (Group) Company Ltd., Lead Designer for Remote Sensing Processing, 
+- *2020.07 - 2020.08*, Alibaba Group, The Intern of Algorithm Engineer 
 
 <br/>
 
