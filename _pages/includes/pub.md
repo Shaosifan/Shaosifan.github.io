@@ -1,7 +1,7 @@
 
 # 📝 Selected Publications 
 
-My full paper list can be found at <a href='https://scholar.google.com/citations?user=jBnA45cAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
+My full paper list can be found at <a href='https://scholar.google.com/citations?user=7k_DigcAAAAJ&'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/FER-YOLO-Mamba.png"><img src='images/FER-YOLO-Mamba.png' alt="FER-YOLO-Mamba" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
