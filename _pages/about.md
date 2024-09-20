@@ -22,5 +22,4 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 <span class='anchor' id='end-page'></span>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6c-URZho7NNzq18AMnSMO1P-dpZAABAwsvBT53v-o5A&w=a&cl=ffffff&cmo=3acc3a&cmn=ff5353"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CQpYsPSOz1ihQ31SpnW4lNgEGBNsRVjO0Dgj4vYbDsc&cl=ffffff&w=a"></script>
