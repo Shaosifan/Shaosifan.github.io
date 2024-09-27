@@ -9,7 +9,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <a class=PaperTitle><b>Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation</b></a> \\
  *ArXiv, 2024*  \\
 **<font color="#000000">Sen Lei</font>**, Xinyu Xiao, Heng-Chao Li, Zhenwei Shi, Qing Zhu \\
-[<a href="https://arxiv.org/abs/2409.13637/">ArXiv</a>]
+[<a href="https://arxiv.org/abs/2409.13637/">ArXiv</a>][<a href="https://github.com/Shaosifan/FIANet">Code</a>] 
 
 </div>
 </div>
