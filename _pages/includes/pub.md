@@ -3,6 +3,31 @@
 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=7k_DigcAAAAJ&'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2024</div><a href="images/MAD-Net.png"><img src='images/MAD-Net.png' alt="MAD-Net" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle><b>Memory-Augmented Differential Network for Infrared Small Target Detection</b></a> \\
+ *JSTARS, 2024*  \\
+Yanqiong Liu, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, Heng-Chao Li \\
+[<a href="https://ieeexplore.ieee.org/document/10777476/">GRSL</a>][<a href="https://github.com/joan2joan/MAD-Net">Code</a>] 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2024</div><a href="images/COUD.png"><img src='images/COUD.png' alt="COUD" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle><b>COUD: Continual Urbanization Detector for Time Series Building Change Detection</b></a> \\
+ *JSTARS, 2024*  \\
+Yitao Zhao, Heng-Chao Li, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, Turgay Celik \\
+[<a href="https://ieeexplore.ieee.org/document/10720916/">JSTARS</a>][<a href="https://github.com/MarsZhaoYT/TSCD-Dataset">Code</a>] 
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><a href="images/RRSIS-FIANet.png"><img src='images/RRSIS-FIANet.png' alt="RRSIS-FIANet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,7 +100,7 @@ Feng Tian†, **<font color="#000000">Sen Lei†</font>**, Yingbo Zhou, Jialin C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>JSTARS 2021<a href="images/R2HGAN.png"><img src='images/R2HGAN.png' alt="R2HGAN" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><a href="images/R2HGAN.png"><img src='images/R2HGAN.png' alt="R2HGAN" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>Hyperspectral Remote Sensing Imagery Generation From RGB Images Based on Joint Discrimination</b></a> \\
