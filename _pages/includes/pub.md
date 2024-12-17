@@ -7,7 +7,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>Memory-Augmented Differential Network for Infrared Small Target Detection</b></a> \\
- *JSTARS, 2024*  \\
+ *IEEE Geoscience and Remote Sensing Letters, 2024*  \\
 Yanqiong Liu, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, Heng-Chao Li \\
 [<a href="https://ieeexplore.ieee.org/document/10777476/">GRSL</a>][<a href="https://github.com/joan2joan/MAD-Net">Code</a>] 
 
@@ -19,7 +19,7 @@ Yanqiong Liu, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, He
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>COUD: Continual Urbanization Detector for Time Series Building Change Detection</b></a> \\
- *JSTARS, 2024*  \\
+ *Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024*  \\
 Yitao Zhao, Heng-Chao Li, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, Turgay Celik \\
 [<a href="https://ieeexplore.ieee.org/document/10720916/">JSTARS</a>][<a href="https://github.com/MarsZhaoYT/TSCD-Dataset">Code</a>] 
 
@@ -58,7 +58,7 @@ Hui Ma, **<font color="#000000">Sen Lei</font>**, Turgay Celik, Heng-Chao Li \\
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>IDA-SiamNet: Interactive- and Dynamic-Aware Siamese Network for Building Change Detection</b></a> \\
- *IEEE TGRS, 2024*  \\
+ *IEEE Transactions on Geoscience and Remote Sensing, 2024*  \\
 Yun-Cheng Li, **<font color="#000000">Sen Lei*</font>**, Nanqing Liu, Heng-Chao Li, Qian Du \\
 [<a href="https://ieeexplore.ieee.org/document/10551864/">TGRS</a>] [<a href="https://github.com/SUPERMAN123000/IDA-SiamNet">Code</a>] 
 
@@ -70,7 +70,7 @@ Yun-Cheng Li, **<font color="#000000">Sen Lei*</font>**, Nanqing Liu, Heng-Chao 
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle><b>HiReNet: Hierarchical-Relation Network for Few-Shot Remote Sensing Image Scene Classification</b></a> \\
- *IEEE TGRS, 2024*  \\
+ *IEEE Transactions on Geoscience and Remote Sensing, 2024*  \\
 Feng Tian†, **<font color="#000000">Sen Lei†</font>**, Yingbo Zhou, Jialin Cheng, Guohao Liang, Zhengxia Zou, Heng-Chao Li, Zhenwei Shi \\
 [<a href="https://ieeexplore.ieee.org/document/10378705/">TGRS</a>]
 
