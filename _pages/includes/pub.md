@@ -3,6 +3,18 @@
 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=7k_DigcAAAAJ&'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><a href="images/RRSIS-FIANet.png"><img src='images/RRSIS-FIANet.png' alt="RRSIS-FIANet" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle><b>Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation</b></a> \\
+  *IEEE Transactions on Geoscience and Remote Sensing, 2024*  \\
+**<font color="#000000">Sen Lei</font>**, Xinyu Xiao, Heng-Chao Li, Zhenwei Shi, Qing Zhu \\
+[<a href="https://ieeexplore.ieee.org/document/10816052">TGRS</a>][<a href="https://arxiv.org/abs/2409.13637/">ArXiv</a>][<a href="https://github.com/Shaosifan/FIANet">Code</a>] 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2024</div><a href="images/MAD-Net.png"><img src='images/MAD-Net.png' alt="MAD-Net" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,19 +34,6 @@ Yanqiong Liu, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, He
  *Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024*  \\
 Yitao Zhao, Heng-Chao Li, **<font color="#000000">Sen Lei</font>**, Nanqing Liu, Jie Pan, Turgay Celik \\
 [<a href="https://ieeexplore.ieee.org/document/10720916/">JSTARS</a>][<a href="https://github.com/MarsZhaoYT/TSCD-Dataset">Code</a>] 
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><a href="images/RRSIS-FIANet.png"><img src='images/RRSIS-FIANet.png' alt="RRSIS-FIANet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a class=PaperTitle><b>Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation</b></a> \\
- *ArXiv, 2024*  \\
-**<font color="#000000">Sen Lei</font>**, Xinyu Xiao, Heng-Chao Li, Zhenwei Shi, Qing Zhu \\
-[<a href="https://arxiv.org/abs/2409.13637/">ArXiv</a>][<a href="https://github.com/Shaosifan/FIANet">Code</a>] 
 
 </div>
 </div>
