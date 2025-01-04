@@ -8,7 +8,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 <a class=PaperTitle><b>Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation</b></a> \\
   *IEEE Transactions on Geoscience and Remote Sensing, 2024*  \\
-**<font color="#000000">Sen Lei</font>**, Xinyu Xiao, Heng-Chao Li, Zhenwei Shi, Qing Zhu \\
+**<font color="#000000">Sen Lei</font>**, Xinyu Xiao, Tianlin Zhang, Heng-Chao Li, Zhenwei Shi, Qing Zhu \\
 [<a href="https://ieeexplore.ieee.org/document/10816052">TGRS</a>][<a href="https://arxiv.org/abs/2409.13637/">ArXiv</a>][<a href="https://github.com/Shaosifan/FIANet">Code</a>] 
 
 </div>
